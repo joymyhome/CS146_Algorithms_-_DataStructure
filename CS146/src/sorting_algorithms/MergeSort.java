@@ -1,4 +1,4 @@
-package homework1;
+package sorting_algorithms;
 
 import java.util.Random;
 
